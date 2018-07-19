@@ -2,7 +2,7 @@ sssxxx
 
 body {
   font-family: Arial;
-  font-size: 17px;
+  font-size: 17px; 
   padding: 8px;
 }
 
@@ -34,7 +34,7 @@ body {
 }
 
 .col-25,
-.col-50,
+.col-50,mmm
 .col-75 {
   padding: 0 16px;
 }
